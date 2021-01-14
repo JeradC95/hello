@@ -1,3 +1,12 @@
 {
-  "name":"jclark95"
+  "name":"GreenRiverDev/328/hello",
+  "authors": [
+    {
+      "name": "Jerad Clark",
+      "email": "jclark74@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
 }
